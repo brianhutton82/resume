@@ -1,8 +1,8 @@
 # Brian Hutton
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Software Engineer, Web Developer, Web Designer_ <br>
 
-[Email](mailto:beh82@pitt.edu) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/)
+[Email](mailto:beh82@pitt.edu) / [LinkedIn](https://www.linkedin.com/\) / [GitHub](https://github.com/brianhutton82/)
 
 ## 💻 Relevant Coursework
 
@@ -51,7 +51,7 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   - _Note: Took a break from teaching in 2019_
   <br><br>
 
-## 👩🏼‍🎓 Education
+## 🎓 Education
 
 **Bachelors of Science** in Computer Science<br>
 [University of Pittsburgh](https://www.pitt.edu/) - Pittsburgh, PA _(Aug 2019 - Dec 2022)_ <br>
