@@ -5,7 +5,7 @@ _Software Engineer, Web Developer, Web Designer_ <br>
 [Email](mailto:beh82@pitt.edu) / [LinkedIn](linkedin.com/in/brian-hutton-797a6b222
 ) / [GitHub](https://github.com/brianhutton82/)
 
-[header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
+![alt text](https://github.com/[brianhutton82]/[resume]/blob/[branch]/linkedin_icon.png?raw=true)
 
 ## 💻 Relevant Coursework
 
