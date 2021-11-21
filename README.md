@@ -7,7 +7,7 @@ _Software Engineer, Web Developer, Web Designer_ <br>
 
 [<img src="https://raw.githubusercontent.com/brianhutton82/resume/main/linkedin_icon.png?token=ASPM6WYUWKIW2SL3SHPKDJDBTKS4U">](www.linkedin.com/in/brian-hutton-797a6b222)
 
-<!-- [![LinkedIn](https://raw.githubusercontent.com/brianhutton82/resume/main/linkedin_icon.png?token=ASPM6WYUWKIW2SL3SHPKDJDBTKS4U)](www.linkedin.com/in/brian-hutton-797a6b222) -->
+[![LinkedIn](https://raw.githubusercontent.com/brianhutton82/resume/main/linkedin_icon.png?token=ASPM6WYUWKIW2SL3SHPKDJDBTKS4U)](www.linkedin.com/in/brian-hutton-797a6b222)
 
 ## 💻 Relevant Coursework
 
