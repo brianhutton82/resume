@@ -1,13 +1,11 @@
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 # Brian Hutton
 
 _Software Engineer, Web Developer, Web Designer_ <br>
 
 [Email](mailto:beh82@pitt.edu) / [LinkedIn](linkedin.com/in/brian-hutton-797a6b222
 ) / [GitHub](https://github.com/brianhutton82/)
-
-<a href="www.linkedin.com/in/brian-hutton-797a6b222" target="_blank">
-  <img src="https://raw.githubusercontent.com/brianhutton82/resume/main/linkedin_icon.png?token=ASPM6WYUWKIW2SL3SHPKDJDBTKS4U"/>
-</a>
 
 ## 💻 Relevant Coursework
 
