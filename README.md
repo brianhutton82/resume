@@ -5,17 +5,18 @@ _Software Engineer, Web Developer, Web Designer_ <br>
 [Email](mailto:beh82@pitt.edu) / [LinkedIn](linkedin.com/in/brian-hutton-797a6b222
 ) / [GitHub](https://github.com/brianhutton82/)
 
+<!-- [![name](link to image on GH)](link to your URL) -->
+
 ## 💻 Relevant Coursework
 
 **Algorithm & Implementation & Data Structures with Java** <br>
   - Worked with Data Structures such as: arrays, linked-lists stacks, queues, trees & tries, hash-maps, graphs 
   - Working with and implementing algorithms solving problems such as: searching, sorting, recursion, pattern matching, compression, shortest path, 
-  - **_Technologies used:_** Java, JDB for debugging, Microsoft Visual Studio, Version control with Github, 
+  - **_Technologies used:_** Java, JDB, Microsoft Visual Studio, Github, 
 <br><br>
 
 **Computer Organization** <br>
-  - General Computer Architecture
-  - Working with registers and memory
+  - Computer Architecture
   - CPU microarchitecture
   - MIPS Assembly Language, Mars (MIPS simulator),
 
@@ -24,12 +25,12 @@ _Software Engineer, Web Developer, Web Designer_ <br>
   - Implementing system calls
   - process synchronization and multi-threading
   - virtual memory and page replacement algorithms
-  - **_Technologies used:_** C Programming Language, GDB, x86-assembly language, working with Linux, VIM, xv6 operating system, Makefiles, version control with Github
+  - **_Technologies used:_** C, GDB, x86-assembly, Linux, VIM, xv6-OS, Makefiles, Github
 <br><br>
 
 **Discrete Math & Computational Theory** <br>
   - Boolean Logic, Set Theory, Graphs, Relations & Functions, Functions
-  - Finite Automata, Turing Machines, Decidability, Reducability
+  - Finite Automata, Turing Machines, Decidability, Reducability, Complexity Theory
     <br><br>
 
 **Web Development and Design** <br>
