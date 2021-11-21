@@ -5,7 +5,11 @@ _Software Engineer, Web Developer, Web Designer_ <br>
 <!-- [Email](mailto:beh82@pitt.edu) / [LinkedIn](linkedin.com/in/brian-hutton-797a6b222
 ) / [GitHub](https://github.com/brianhutton82/) -->
 
- [![Email](https://github.com/brianhutton82/resume/blob/main/email.png?raw=true)](mailto:beh82@pitt.edu)   [![LinkedIn](https://github.com/brianhutton82/resume/blob/main/linkedin_icon.png?raw=true)](https://www.google.com/)   [![GitHub](https://github.com/brianhutton82/resume/blob/main/github_icon.png?raw=true)](https://github.com/brianhutton82){:target="_blank" rel="noopener"}
+ [![Email](https://github.com/brianhutton82/resume/blob/main/email.png?raw=true)](mailto:beh82@pitt.edu)   [![LinkedIn](https://github.com/brianhutton82/resume/blob/main/linkedin_icon.png?raw=true)](https://www.google.com/)   [![GitHub](https://github.com/brianhutton82/resume/blob/main/github_icon.png?raw=true)](https://github.com/brianhutton82)
+ 
+ <a href="http://example.com/" target="_blank">example</a>
+ 
+<a href="https://www.qries.com/"> <img alt="Qries" src="https://github.com/brianhutton82/resume/blob/main/linkedin_icon.png?raw=true">
 
 ## 💻 Relevant Coursework
 
