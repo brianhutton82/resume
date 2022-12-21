@@ -25,14 +25,11 @@ _Software Engineer, Web Developer, Retro Game Developer_ <br>
   
 **Software Quality Assurance**<br>
   - Used JUnit & Mockito to create and test a Galton board simulation 
-  
-<br><br>
 
 **Graphic Design** <br>
   - Two-Dimensional Design, Drawing, Printmaking, Photography, Digital Graphic Design
   - **_Technologies used:_** Adobe Illustrator, Inkscape, Adobe Photoshop, Adobe InDesign
 
-  - 
 ## 📌 Side Projects
 
 **NES & 6502 Game Development**<br>
