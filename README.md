@@ -1,6 +1,6 @@
 # Brian Hutton
 
-_Software Engineer, Web Developer, Web Designer_ <br>
+_Software Engineer, Web Developer, Retro Game Developer_ <br>
 
 <!-- [Email](mailto:beh82@pitt.edu) / [LinkedIn](linkedin.com/in/brian-hutton-797a6b222
 ) / [GitHub](https://github.com/brianhutton82/) -->
@@ -11,33 +11,21 @@ _Software Engineer, Web Developer, Web Designer_ <br>
 
 ## 💻 Relevant Coursework
 
-**Algorithm & Implementation & Data Structures with Java** <br>
-  - Worked with Data Structures such as: arrays, linked-lists stacks, queues, trees & tries, hash-maps, graphs 
-  - Working with and implementing algorithms solving problems such as: searching, sorting, recursion, pattern matching, compression, shortest path, 
-  - **_Technologies used:_** Java, JDB, Microsoft Visual Studio, Github, 
-<br><br>
+**Introduction to Compiler Design**<br>
+  - Created a compiler for a language with syntax similar to Rust for the MIPS instruction set
 
-**Computer Organization** <br>
-  - Computer Architecture
-  - CPU microarchitecture
-  - MIPS Assembly Language, Mars (MIPS simulator),
+**Database Management Systems**<br>
+  - Implemented a database system using JDBC and PostgreSQL
 
-**Operating Systems Knowledge** <br>
-  - Pointers, dynamic memory allocation, bitwise algorithms
-  - Implementing system calls
-  - process synchronization and multi-threading
-  - virtual memory and page replacement algorithms
-  - **_Technologies used:_** C, GDB, x86-assembly, Linux, VIM, xv6-OS, Makefiles, Github
-<br><br>
+**Programming Languages for Web Applications**<br>
+  - Developed a web based chat application using the Flask microframework
 
-**Discrete Math & Computational Theory** <br>
-  - Boolean Logic, Set Theory, Graphs, Relations & Functions, Functions
-  - Finite Automata, Turing Machines, Decidability, Reducability, Complexity Theory
-    <br><br>
-
-**Web Development and Design** <br>
-  - Responsive Design, the Document Object Model, 
-  - **_Technologies used:_** HTML, CSS, JavaScript, SQL, Python
+**Applied Cryptography & Network Security**<br>
+  - Created a secure networked file sharing application using Java and the Bouncy Castle cryptography API
+  
+**Software Quality Assurance**<br>
+  - Used JUnit & Mockito to create and test a Galton board simulation 
+  
 <br><br>
 
 **Graphic Design** <br>
@@ -47,12 +35,8 @@ _Software Engineer, Web Developer, Web Designer_ <br>
   - 
 ## 📌 Side Projects
 
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
+**NES & 6502 Game Development**<br>
+  - Learning NES game development using 8bitworkshop, neslib, and the FCEUX NES emulator
   <br><br>
 
 ## 🎓 Education
@@ -65,12 +49,16 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 
 ## 👨‍💻 Work Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
+**Software Test Engineer Internship** @ [Edge Case Research](https://www.ecr.ai/) _(Summer 2022)_ <br>
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+  - **_Technologies used:_** Python, PyTest, Selenium, HTML, CSS, JavaScript
 <br><br>
+
+**IT Support Help Desk** @ [University of Pittsburgh School of Health and Rehabilitation Sciences](https://www.shrs.pitt.edu/technology/support) _(Jan 2022 - June 2022)_ <br>
+  - Diagnosed and resolved user issues
+  - Maintained and updated databases
+  - Wrote and updated technical documentation for users
 
 **Library Equipment Room Assistant** @ [University of Pittsburgh](https://www.library.pitt.edu/) _(Aug 2019 - May 2020)_ <br>
   - Distributed and inventoried Camera and Video Camera equipment
